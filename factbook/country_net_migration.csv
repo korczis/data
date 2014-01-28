@@ -1,0 +1,222 @@
+1|United Arab Emirates|          21.71
+2|Cayman Islands|          16.09
+3|Kuwait|          15.65
+4|Sint Maarten|          14.24
+5|Anguilla|          13.54
+6|Zimbabwe|          12.87
+7|Cyprus|          11.68
+8|San Marino|           9.63
+9|Aruba|           9.56
+10|Turks and Caicos Islands|           8.63
+11|Luxembourg|           8.34
+12|Isle of Man|           8.01
+13|British Virgin Islands|           7.74
+14|Australia|           6.13
+15|Canada|           5.64
+16|Jersey|           5.36
+17|Botswana|           4.91
+18|Singapore|           4.79
+19|Liechtenstein|           4.63
+20|Djibouti|           4.60
+21|New Caledonia|           4.31
+22|United States|           4.25
+23|Afghanistan|           4.24
+24|Hong Kong|           4.22
+25|Burundi|           4.06
+26|Macau|           3.52
+27|Portugal|           3.06
+28|Guernsey|           2.76
+29|Spain|           2.73
+30|French Polynesia|           2.69
+31|Brunei|           2.64
+32|United Kingdom|           2.61
+33|Denmark|           2.47
+34|Netherlands|           2.38
+35|Antigua and Barbuda|           2.35
+36|Greece|           2.33
+37|New Zealand|           2.30
+38|Israel|           2.22
+39|Germany|           2.19
+40|Bermuda|           2.15
+41|Italy|           2.07
+42|Malta|           2.02
+43|Austria|           1.83
+44|Norway|           1.70
+45|Sweden|           1.65
+46|Croatia|           1.59
+47|France|           1.47
+48|Hungary|           1.40
+49|Switzerland|           1.31
+50|Curacao|           1.27
+51|Saint Kitts and Nevis|           1.26
+52|Belgium|           1.22
+53|Costa Rica|           1.11
+54|Rwanda|           1.11
+55|Angola|           1.05
+56|Seychelles|           1.04
+57|Czech Republic|           0.97
+58|Palau|           0.86
+59|Congo, Democratic Republic of the|           0.77
+60|Finland|           0.62
+61|Liberia|           0.56
+62|Iceland|           0.54
+63|Turkey|           0.53
+64|Slovenia|           0.40
+65|Belarus|           0.38
+66|Slovakia|           0.29
+67|Russia|           0.28
+68|Namibia|           0.25
+69|Sudan|           0.05
+70|Taiwan|           0.03
+71|Andorra|           0.00
+72|Bahrain|           0.00
+73|Eritrea|           0.00
+74|Equatorial Guinea|           0.00
+75|Cote dIvoire|           0.00
+76|Comoros|           0.00
+77|Chile|           0.00
+78|Central African Republic|           0.00
+79|Cameroon|           0.00
+80|Burkina Faso|           0.00
+81|Bosnia and Herzegovina|           0.00
+82|Iraq|           0.00
+83|Guinea-Bissau|           0.00
+84|Guinea|           0.00
+85|Gaza Strip|           0.00
+86|Gambia, The|           0.00
+87|Faroe Islands|           0.00
+88|Bhutan|           0.00
+89|Benin|           0.00
+90|Belize|           0.00
+91|Malawi|           0.00
+92|Madagascar|           0.00
+93|Libya|           0.00
+94|Korea, South|           0.00
+95|Kenya|           0.00
+96|Japan|           0.00
+97|Ireland|           0.00
+98|Bahamas, The|           0.00
+99|Yemen|           0.00
+100|West Bank|           0.00
+101|Venezuela|           0.00
+102|Vanuatu|           0.00
+103|Tonga|           0.00
+104|Togo|           0.00
+105|Timor-Leste|           0.00
+106|Thailand|           0.00
+107|Swaziland|           0.00
+108|Suriname|           0.00
+109|Somalia|           0.00
+110|Serbia|           0.00
+111|Saint Helena, Ascension, and Tristan da Cunha|           0.00
+112|Papua New Guinea|           0.00
+113|Niger|           0.00
+114|Mozambique|           0.00
+115|Montserrat|           0.00
+116|Mongolia|           0.00
+117|Mayotte|           0.00
+118|Argentina|           0.00
+119|Ethiopia|          -0.02
+120|Uganda|          -0.02
+121|Mauritius|          -0.03
+122|Iran|          -0.04
+123|India|          -0.05
+124|Paraguay|          -0.08
+125|Brazil|          -0.09
+126|Korea, North|          -0.09
+127|Nigeria|          -0.10
+128|Ukraine|          -0.10
+129|Uruguay|          -0.14
+130|Egypt|          -0.21
+131|Romania|          -0.27
+132|Algeria|          -0.28
+133|Barbados|          -0.30
+134|Burma|          -0.31
+135|China|          -0.34
+136|Cambodia|          -0.35
+137|Vietnam|          -0.37
+138|Tunisia|          -0.38
+139|Netherlands Antilles|          -0.39
+140|Malaysia|          -0.40
+141|Panama|          -0.46
+142|Poland|          -0.47
+143|Macedonia|          -0.48
+144|Oman|          -0.48
+145|Ghana|          -0.61
+146|Saudi Arabia|          -0.61
+147|Zambia|          -0.62
+148|Ecuador|          -0.66
+149|Cape Verde|          -0.67
+150|Colombia|          -0.68
+151|Lithuania|          -0.72
+152|Tanzania|          -0.81
+153|Monaco|          -0.85
+154|Puerto Rico|          -0.91
+155|Peru|          -0.93
+156|Mauritania|          -0.94
+157|Bolivia|          -1.01
+158|Sri Lanka|          -1.05
+159|Nicaragua|          -1.09
+160|Moldova|          -1.13
+161|Laos|          -1.18
+162|Congo, Republic of the|          -1.20
+163|Syria|          -1.20
+164|Indonesia|          -1.23
+165|Tajikistan|          -1.26
+166|Honduras|          -1.27
+167|Philippines|          -1.31
+168|Nepal|          -1.35
+169|Azerbaijan|          -1.42
+170|Cuba|          -1.56
+171|Solomon Islands|          -1.94
+172|Turkmenistan|          -1.95
+173|Senegal|          -1.99
+174|Dominican Republic|          -2.04
+175|Bangladesh|          -2.12
+176|Guatemala|          -2.17
+177|Gabon|          -2.24
+178|Latvia|          -2.32
+179|Pakistan|          -2.36
+180|Lebanon|          -2.43
+181|Kyrgyzstan|          -2.58
+182|Bulgaria|          -2.80
+183|Jordan|          -2.81
+184|Uzbekistan|          -2.84
+185|Kiribati|          -2.87
+186|South Africa|          -3.13
+187|Kazakhstan|          -3.28
+188|Estonia|          -3.29
+189|Gibraltar|          -3.32
+190|Albania|          -3.35
+191|Mexico|          -3.38
+192|Grenada|          -3.67
+193|Morocco|          -3.88
+194|Saint Lucia|          -3.93
+195|Chad|          -3.95
+196|Armenia|          -4.16
+197|Georgia|          -4.16
+198|Qatar|          -4.41
+199|Sierra Leone|          -4.66
+200|Virgin Islands|          -5.27
+201|Marshall Islands|          -5.30
+202|Mali|          -5.38
+203|Dominica|          -5.44
+204|Jamaica|          -5.52
+205|Wallis and Futuna|          -5.87
+206|Greenland|          -5.99
+207|American Samoa|          -6.83
+208|Tuvalu|          -7.07
+209|Trinidad and Tobago|          -7.11
+210|Fiji|          -7.37
+211|Haiti|          -8.32
+212|Lesotho|          -8.68
+213|El Salvador|          -9.13
+214|Saint Pierre and Miquelon|          -9.25
+215|Sao Tome and Principe|          -9.52
+216|Saint Vincent and the Grenadines|         -11.36
+217|Samoa|         -11.52
+218|Maldives|         -12.60
+219|Guyana|         -15.83
+220|Nauru|         -16.08
+221|Micronesia, Federated States of|         -21.01
+222|Northern Mariana Islands|         -73.56

@@ -1,0 +1,226 @@
+1|Angola|    23.74
+2|Mozambique|    19.83
+3|Afghanistan|    17.65
+4|South Africa|    16.99
+5|Nigeria|    16.31
+6|Russia|    16.04
+7|Chad|    15.79
+8|Lesotho|    15.71
+9|Ukraine|    15.70
+10|Guinea-Bissau|    15.52
+11|Central African Republic|    15.30
+12|Somalia|    15.24
+13|Swaziland|    14.99
+14|Zimbabwe|    14.90
+15|Mali|    14.64
+16|Niger|    14.47
+17|Bulgaria|    14.31
+18|Serbia|    13.89
+19|Belarus|    13.81
+20|Malawi|    13.69
+21|Latvia|    13.60
+22|Estonia|    13.48
+23|Burkina Faso|    13.02
+24|Namibia|    12.97
+25|Gabon|    12.90
+26|Zambia|    12.84
+27|Hungary|    12.67
+28|Tanzania|    12.31
+29|Gambia, The|    12.03
+30|Cameroon|    12.01
+31|Sierra Leone|    11.97
+32|Uganda|    11.90
+33|Croatia|    11.83
+34|Romania|    11.78
+35|Congo, Republic of the|    11.75
+36|Sudan|    11.66
+37|Congo, Democratic Republic of the|    11.39
+38|Ethiopia|    11.29
+39|Lithuania|    11.25
+40|Germany|    11.00
+41|Liberia|    10.88
+42|Italy|    10.83
+43|Czech Republic|    10.79
+44|Moldova|    10.76
+45|Portugal|    10.74
+46|Slovenia|    10.74
+47|Guinea|    10.72
+48|Greece|    10.60
+49|Korea, North|    10.60
+50|Belgium|    10.50
+51|Cote dIvoire|    10.43
+52|Sweden|    10.20
+53|Denmark|    10.19
+54|Rwanda|    10.19
+55|Finland|    10.15
+56|Poland|    10.10
+57|Austria|    10.05
+58|Burundi|     9.87
+59|Isle of Man|     9.87
+60|Japan|     9.83
+61|Georgia|     9.79
+62|Slovakia|     9.56
+63|Senegal|     9.49
+64|Kazakhstan|     9.39
+65|Tuvalu|     9.36
+66|United Kingdom|     9.33
+67|Equatorial Guinea|     9.26
+68|Kenya|     9.26
+69|Norway|     9.26
+70|Benin|     9.23
+71|Western Sahara|     9.13
+72|Uruguay|     9.06
+73|Botswana|     9.02
+74|Mauritania|     9.00
+75|Ghana|     8.93
+76|Macedonia|     8.87
+77|Netherlands|     8.78
+78|Montenegro|     8.76
+79|Spain|     8.72
+80|Bosnia and Herzegovina|     8.71
+81|Faroe Islands|     8.66
+82|France|     8.65
+83|Switzerland|     8.65
+84|Malta|     8.49
+85|Luxembourg|     8.46
+86|Sao Tome and Principe|     8.45
+87|Armenia|     8.42
+88|Saint Pierre and Miquelon|     8.41
+89|Barbados|     8.39
+90|United States|     8.38
+91|World|     8.37
+92|Djibouti|     8.37
+93|Guernsey|     8.35
+94|Azerbaijan|     8.28
+95|Laos|     8.28
+96|Eritrea|     8.25
+97|Burma|     8.23
+98|Haiti|     8.21
+99|Trinidad and Tobago|     8.21
+100|Cambodia|     8.19
+101|Gibraltar|     8.17
+102|Togo|     8.15
+103|Dominica|     8.12
+104|Greenland|     8.05
+105|Monaco|     8.01
+106|Curacao|     8.00
+107|Madagascar|     7.97
+108|Grenada|     7.90
+109|Canada|     7.87
+110|Montserrat|     7.82
+111|Puerto Rico|     7.82
+112|Palau|     7.81
+113|Aruba|     7.76
+114|San Marino|     7.75
+115|India|     7.53
+116|Jersey|     7.49
+117|Liechtenstein|     7.49
+118|Vanuatu|     7.49
+119|Kiribati|     7.48
+120|Bermuda|     7.43
+121|Comoros|     7.40
+122|Argentina|     7.39
+123|Cuba|     7.29
+124|Bhutan|     7.25
+125|Guyana|     7.24
+126|Yemen|     7.24
+127|Cook Islands|     7.22
+128|Saint Kitts and Nevis|     7.11
+129|New Zealand|     7.10
+130|Pakistan|     7.06
+131|Mayotte|     7.05
+132|Virgin Islands|     6.96
+133|Bolivia|     6.95
+134|Saint Vincent and the Grenadines|     6.94
+135|Seychelles|     6.92
+136|Hong Kong|     6.91
+137|Saint Helena, Ascension, and Tristan da Cunha|     6.91
+138|Iceland|     6.90
+139|Saint Lucia|     6.90
+140|Bahamas, The|     6.89
+141|Nepal|     6.89
+142|China|     6.89
+143|Taiwan|     6.87
+144|Kyrgyzstan|     6.85
+145|Australia|     6.81
+146|Tajikistan|     6.72
+147|Mauritius|     6.63
+148|Papua New Guinea|     6.62
+149|Netherlands Antilles|     6.54
+150|Jamaica|     6.48
+151|Thailand|     6.47
+152|Lebanon|     6.46
+153|Cyprus|     6.42
+154|Cape Verde|     6.41
+155|Brazil|     6.35
+156|Ireland|     6.30
+157|Turkmenistan|     6.27
+158|Indonesia|     6.25
+159|Andorra|     6.21
+160|Sri Lanka|     6.20
+161|Korea, South|     6.15
+162|Nauru|     6.15
+163|Peru|     6.13
+164|Turkey|     6.10
+165|Mongolia|     6.08
+166|Albania|     6.04
+167|Vietnam|     5.97
+168|Iran|     5.94
+169|Timor-Leste|     5.93
+170|Chile|     5.90
+171|Fiji|     5.88
+172|Belize|     5.82
+173|Bangladesh|     5.81
+174|Antigua and Barbuda|     5.77
+175|El Salvador|     5.61
+176|Suriname|     5.53
+177|Israel|     5.45
+178|Samoa|     5.36
+179|Uzbekistan|     5.29
+180|Colombia|     5.24
+181|Tunisia|     5.24
+182|New Caledonia|     5.23
+183|Venezuela|     5.14
+184|Philippines|     5.06
+185|Guatemala|     5.04
+186|Cayman Islands|     5.00
+187|Ecuador|     5.00
+188|Honduras|     4.99
+189|Tonga|     4.95
+190|Iraq|     4.92
+191|Malaysia|     4.92
+192|Egypt|     4.85
+193|Mexico|     4.83
+194|French Polynesia|     4.80
+195|Singapore|     4.80
+196|Morocco|     4.74
+197|Algeria|     4.66
+198|Panama|     4.62
+199|Wallis and Futuna|     4.56
+200|Paraguay|     4.55
+201|Marshall Islands|     4.42
+202|British Virgin Islands|     4.41
+203|Anguilla|     4.40
+204|Micronesia, Federated States of|     4.40
+205|Bahrain|     4.37
+206|Dominican Republic|     4.30
+207|Costa Rica|     4.29
+208|Nicaragua|     4.28
+209|Turks and Caicos Islands|     4.17
+210|American Samoa|     4.09
+211|Solomon Islands|     3.96
+212|Syria|     3.70
+213|Maldives|     3.68
+214|West Bank|     3.62
+215|Macau|     3.60
+216|Oman|     3.47
+217|Libya|     3.40
+218|Gaza Strip|     3.36
+219|Saudi Arabia|     3.34
+220|Brunei|     3.32
+221|Northern Mariana Islands|     3.17
+222|Sint Maarten|     3.00
+223|Jordan|     2.66
+224|Qatar|     2.44
+225|Kuwait|     2.29
+226|United Arab Emirates|     2.08
