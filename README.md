@@ -2,6 +2,19 @@
 
 Various data
 
+## Structure
+
+```
+.
+├── codes
+├── dicts
+├── factbook
+├── other
+├── shapefiles
+│   └── all-country-borders-in-one
+└── tmp
+```
+
 ## Resources
 
 ### ESRI
