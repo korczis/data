@@ -6,7 +6,7 @@ Various data
 
 ### ESRI
 
-* [korczis/esri](https://github.com/korczis/esri)
+* [korczis/esri](https://github.com/korczis/esri) - Framework for working with ESRI datasets
 
 ### ip2geo
 
